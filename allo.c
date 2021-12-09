@@ -40,3 +40,17 @@ int main()
 
 	return 0;
 }
+
+
+/* .....OUTPUT......
+
+Enter the starting block & length of file :
+6
+3
+
+6->1
+7->1
+8->1
+ if u want to enter more files?(y-1/n-0)
+ 
+ */
