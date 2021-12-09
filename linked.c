@@ -47,3 +47,27 @@ int main()
 exit(0);
 }
 
+/*......OUTPUT........
+
+Enter how many blocks that are already allocated :5
+
+Enter the blocks no.s that are already allocated :1
+2
+3
+4
+5
+Enter the starting index block & length :
+4
+6
+
+ 4-  >file is already allocated
+ 5-  >file is already allocated
+6->1
+7->1
+8->1
+9->1
+10->1
+11->1
+ If u want to enter one more file? (yes-1/no-0)
+
+*/
