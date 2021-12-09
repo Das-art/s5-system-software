@@ -47,3 +47,27 @@ int main()
         exit(0);
     
 }
+/*......OUTPUT.......
+
+enter index block	5
+enter no of files on index	
+6
+8
+2
+3
+7
+1
+0
+
+ allocated
+ file indexed
+ 5-  >8:1
+ 5-  >2:1
+ 5-  >3:1
+ 5-  >7:1
+ 5-  >1:1
+ 5-  >0:1
+Enter 1 to enter more files and 0 to exit	
+
+*/
+
